@@ -1,0 +1,32 @@
+streamlit
+pandas
+plotly
+altair
+scapy
+networkx
+pyvis
+requests
+yara-python
+# Additional libraries for advanced features
+numpy
+scikit-learn
+# Optional libraries for specific functionalities
+# Uncomment if you need these features
+# tensorflow
+# keras
+# nltk
+# matplotlib
+# seaborn
+# Optional libraries for data processing
+# Uncomment if you need these features
+# dask
+# Optional libraries for web scraping
+# Uncomment if you need these features
+# beautifulsoup4
+# Optional libraries for database interaction
+# Uncomment if you need these features
+# sqlalchemy
+# Optional libraries for machine learning
+# Uncomment if you need these features
+# xgboost
+# Optional libraries for deep learning  
