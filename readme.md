@@ -1,4 +1,4 @@
-![ReconIntelligence Banner](images/banner.png)
+![ReconIntelligence Banner](images/logo.png)
 # 🧠 ReconIntelligence
 
 **ReconIntelligence** es una plataforma avanzada de análisis de tráfico de red orientada a la ciberinteligencia. Su propósito es ofrecer una interfaz moderna y funcional para el procesamiento de archivos PCAP, permitiendo identificar amenazas, comportamientos anómalos y patrones sospechosos dentro de redes, todo desde una única herramienta interactiva desarrollada en Python con Streamlit.
